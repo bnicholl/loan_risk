@@ -194,7 +194,6 @@ train = housing_type()
 # AMT_INCOME_TOTAL, AMT_CREDIT, AMT_ANNUITY, AMT_GOODS_PRICE
 
 
-"""I believe REGION_POPULATION_RELATIVE and DAYS_EMPLOYED are coorelated. runs a scatterplot"""
 #REGION_POPULATION_RELATIVE
 #DAYS_BIRTH
 #DAYS_REGISTRATION   -   already scaled 
